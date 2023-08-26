@@ -1,0 +1,285 @@
+.cl4 {
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.cl1 {
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cl2 {
+    color: darkgreen;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.cl3 {
+    color: darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image{
+    
+    height:430px;
+    width:420px;
+    background-color: aquamarine;
+}
+.img1{
+    height:430px;
+    width:420px;
+    /* border:double black; */
+    background-color:blanchedalmond;
+    margin:20PX;
+    padding-top:10PX;
+    padding-bottom:10PX;
+    border-radius:30px;
+    box-shadow: 10px 5px 10px 5px;
+    border-radius:30px;
+}
+.img3{
+    height:430px;
+    width:420px;
+    /* border:double black; */
+    background-color:blanchedalmond;
+    padding-bottom: 0cm;
+    padding-top:20PX;
+    margin:20PX;
+    border-radius:30px;
+    box-shadow: 10px 5px 10px 5px;
+}
+.img4{
+    height:430px;
+    width:420px;
+    /* border:double black; */
+    background-color:blanchedalmond;
+    padding-bottom: 0cm;
+    padding-top:20PX;
+    margin:20PX;
+    border-radius:30px;
+    box-shadow: 10px 5px 10px 5px;
+
+}
+.img5{
+    height:430px;
+    width:420px;
+    /* border:double black; */
+    background-color:blanchedalmond;
+    padding-top:10PX;
+    padding-top:20PX;
+    margin:20PX;
+    border-radius:30px;
+    box-shadow: 10px 5px 10px 5px;
+}
+.img6{
+    height:430px;
+    width:420px;
+    background-color:blanchedalmond;
+    padding-top:10PX;
+    padding-top:20PX;
+    margin:20PX;
+    border-radius:30px;
+    box-shadow: 10px 5px 10px 5px;
+}
+.img7{
+    height:430px;
+    width:420px;
+    /* border:double black; */
+    background-color:blanchedalmond;
+    padding-top:10PX;
+    padding-top:20PX;
+    margin:20PX;
+    border-radius:30px;
+    box-shadow: 10px 5px 10px 5px;
+}
+.img8{
+    height:430px;
+    width:420px;
+    /* border:double black; */
+    background-color:blanchedalmond;
+    padding-top:10PX;
+    padding-top:20PX;
+    margin:20PX;
+    border-radius:30px;
+    box-shadow: 10px 5px 10px 5px;
+}
+.img9{
+    height:430px;
+    width:420px;
+    /* border:double black; */
+    background-color:blanchedalmond;
+    padding-top:10PX;
+    padding-top:20PX;
+    margin:20PX;
+    border-radius:30px;
+    box-shadow: 10px 5px 10px 5px;
+}
+.body{
+    display:flex;
+    box-sizing: border-box;
+}
+.hema1{
+    height:300px;
+    width:300px;
+    border-radius:30px;
+}
+.hema2{
+    height:300px;
+    width:300px;
+    border-radius:30px;
+    
+}
+.hema3{
+    height:300px;
+    width:300px;
+    border-radius:30px;
+    
+}
+.hema4{
+    height:300px;
+    width:300px;
+    border-radius:30px;
+    
+}
+.hari1{
+    height:300px;
+    width:300px;
+    border-radius:30px;
+
+}
+.hari2{
+    height:300px;
+    width:300px;
+    border-radius:30px;
+    
+}
+.hari3{
+    height:300px;
+    width:300px;
+    border-radius:30px;
+    
+}
+.hari4{
+    height:300px;
+    width:300px;
+    border-radius:30px;
+    
+}
+.nani{
+    background-color:darkseagreen;
+    border:double black;
+}
+.txt1{
+    background-color: aquamarine;
+}
+.contact{
+    background-color:darkslategrey;
+}
+.btn{
+    height:30px;
+    width:100px;
+    border-radius:5px;
+    margin-bottom:5px;
+}
+.btn:hover{
+    color: black;
+    cursor: pointer;
+}
+.btnn{
+    height:150px;
+    width: 2000px;
+    margin: 10px;
+    display: flex;
+}
+.btn1{
+    height:40px;
+    width:100px;
+    border-radius:5px;
+    margin: 10px;
+    background-color: darkmagenta;
+    
+}
+.btn2{
+    height:40px;
+    width:100px;
+    border-radius:5px;
+    margin:10px;
+    background-color: darkmagenta;
+    
+
+}
+.btn3{
+    height:40px;
+    width:100px;
+    border-radius:5px;
+    margin:10px;
+    background-color: darkmagenta;
+    
+
+}
+.btn4{
+    height:40px;
+    width:100px;
+    border-radius:5px;
+    margin:10px;
+    background-color: darkmagenta;
+    
+
+}
+.btn1:hover{
+    cursor: pointer;
+    color:black;
+
+}
+.btn2:hover{
+    cursor:pointer;
+
+}
+.btn3:hover{
+    cursor: pointer;
+
+}
+.btn4:hover{
+    cursor: pointer;
+
+}
+.in1{
+    height:40px;
+    width:100px;
+    border-radius:10px;
+    margin-left:5px;
+    background-color:darksalmon;
+}
+@media screen and (max-width:576px){
+    .section{
+       width:auto;
+       flex-wrap: wrap;
+    }
+
+    
+}
+.contact{
+    border-radius:20px;
+}
+@media screen and (max-width:576px){
+    .body{
+       width:auto;
+       flex-wrap: wrap;
+    }
+
+    
+}
+@media screen and (max-width:576px){
+    .btnn{
+       width:auto;
+       flex-wrap: wrap;
+    }
+
+    
+}
+@media screen and (max-width:576px){
+    .image{
+       width:auto;
+       flex-wrap: wrap;
+    }
+
+    
+}
